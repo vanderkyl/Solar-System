@@ -1,0 +1,24 @@
+Sun: 
+- radius: 432,687 mi
+
+
+
+Earth:
+- radius: 3,959 mi
+- distance from sun: 92.95 million miles
+
+
+Moon:
+- radius: 1079 mi
+- distance from earth: 230,100 mi
+
+Radius:
+Sun/Earth: 109/1
+Earth/Moon: 7/2
+
+Distance:
+Sun-Earth: 106 Suns
+Earth-Moon: 106 Moons
+
+Revolution:
+Earth/Moon: 12/1
